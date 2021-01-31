@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 8, 2020 7:16 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.38
+WORDPRESS:	5.5.1
+PHP INFO:	7.2.2 | SAPI: apache2handler
+SERVER:		Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20201108_welcome_2bafdf54888d67fa9786_20201108071531_database.sql
+SQL FILE SIZE: 4.8MB (5035435)
+SQL FILE TIME: 2020-11-08 07:16:32
+SQL RUNTIME: 23.11 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/wproject
+ARCHIVE FILE: 20201108_welcome_2bafdf54888d67fa9786_20201108071531_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	153.79MB
+STATS:	Dirs 1,497 | Files 8,323
+SQL ADDED: 20201108_welcome_2bafdf54888d67fa9786_20201108071531_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9820
+    [filename] => C:\xampp\htdocs\wproject\wp-content\backups-dup-lite\tmp\20201108_welcome_2bafdf54888d67fa9786_20201108071531_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9819
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 60.56MB
+ARCHIVE RUNTIME: 207.72 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/wproject/wp-content/backups-dup-lite/tmp/20201108_welcome_2bafdf54888d67fa9786_20201108071531_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 4.8MB
+INSTALLER FILE: 61.31KB
+ARCHIVE FILE: 62.09MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,820
+ACTUAL FILE/DIRECTORY COUNT: 9,819
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 232.99 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20201108_welcome November 8, 2020 7:20 am
+

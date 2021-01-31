@@ -1,0 +1,6 @@
+2021-01-31T19:07:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wproject\wp-content\plugins\elementor\includes\settings\settings.php on line 7
+
+2021-01-31T19:07:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wproject\wp-includes\blocks.php on line 190
+
+2021-01-31T19:07:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wproject\wp-includes\Requests\Transport\cURL.php on line 163
+
